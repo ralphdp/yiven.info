@@ -1,4 +1,11 @@
 {
+    "redirects": [
+        {
+            "source": "/(.*)",
+            "destination": "https://yiven.io/info",
+            "permanent": true
+        }
+    ],
     "headers": [
         {
             "source": "/(.*)",
